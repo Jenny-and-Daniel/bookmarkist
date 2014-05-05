@@ -1,0 +1,14 @@
+{
+  "name": "bookmarkist",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "locally": "^0.2.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "start": "node_modules/locally/bin/locally -w public"
+  }
+}
